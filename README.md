@@ -3,8 +3,7 @@ Flutter Example, (liquid_pull_to_refresh, Scroll Handling {LoadMore Action}, Lis
 
 
 # Output : 
-### Running on Device (Ios & Android)
-
+ 
  
  
 # Point
