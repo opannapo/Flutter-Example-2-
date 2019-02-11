@@ -7,7 +7,7 @@ Flutter Example, (liquid_pull_to_refresh, Scroll Handling {LoadMore Action}, Lis
 https://www.youtube.com/watch?v=yqRhkaV8syM
 
 <a href="https://www.youtube.com/embed/zBGmVRNHBCo" target="_blank"><img src="https://img.youtube.com/vi/yqRhkaV8syM/maxresdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
  
  
 # Point
